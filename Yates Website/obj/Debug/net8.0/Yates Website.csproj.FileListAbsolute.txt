@@ -1,0 +1,34 @@
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\appsettings.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\Yates Website.staticwebassets.runtime.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\Yates Website.staticwebassets.endpoints.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\Yates Website.exe
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\Yates Website.deps.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\Yates Website.runtimeconfig.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\Yates Website.dll
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\bin\Debug\net8.0\Yates Website.pdb
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.AssemblyInfoInputs.cache
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.AssemblyInfo.cs
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.csproj.CoreCompileInputs.cache
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.RazorAssemblyInfo.cache
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.RazorAssemblyInfo.cs
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\scopedcss\bundle\Yates Website.styles.css
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\scopedcss\projectbundle\Yates Website.bundle.scp.css
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets\msbuild.Yates Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets\msbuild.Yates Website.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets\msbuild.build.Yates Website.props
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Yates Website.props
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Yates Website.props
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.dll
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\refint\Yates Website.dll
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.pdb
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\Yates Website.genruntimeconfig.cache
+C:\Users\bryceyates\source\repos\Yates Website\Yates Website\obj\Debug\net8.0\ref\Yates Website.dll
